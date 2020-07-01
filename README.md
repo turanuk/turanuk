@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello! 👋
 
+I'm Jim and I work on various projects at GitHub, as well as on the Microsoft App Center product. 
+
+💬 Areas I am really passionate about are on-call/operations, helping people, and shipping great software.
+
+⚡ Fun fact: turanuk (TER-ah-nuck) is a word I made up because "Jim Wang" was frequently taken.
 <!--
 **turanuk/turanuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +17,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
 -->
