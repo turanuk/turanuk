@@ -1,7 +1,5 @@
 ### Hello! 👋
 
-I'm Jim and I work on various projects at GitHub.
-
 💬 Areas I am really passionate about are on-call/operations, supporting and growing people, and shipping great software.
 
 ⚡ Fun fact: turanuk (TER-ah-nuck) is a word I made up because "Jim Wang" was frequently taken.
